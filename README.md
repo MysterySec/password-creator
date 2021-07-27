@@ -1,2 +1,2 @@
-# password-creator
+# Password Creator
 Customizable advanced password generator 
